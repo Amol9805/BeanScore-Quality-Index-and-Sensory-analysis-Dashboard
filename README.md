@@ -57,6 +57,8 @@ Contains:
 * **Top Region Score** = `MAXX(SUMMARIZE(Region, [AvgCupScore]), [AvgCupScore])`
 * **Top Region Name** = `MAXX(SUMMARIZE('df_arabica_clean', 'df_arabica_clean'[Region], "RegionAvg", [Avg Cup Score]), IF([RegionAvg] = [TopRegionScore], 'df_arabica_clean'[Region]))`
 
+### Screenshot/Demos:
+* Example:  ![Dashboard Preview](https://github.com/Amol9805/BeanScore-Quality-Index-and-Sensory-analysis-Dashboard/blob/main/Data%20Modelling.png)
 ---
 
 # Dashboard Pages & Visualizations
