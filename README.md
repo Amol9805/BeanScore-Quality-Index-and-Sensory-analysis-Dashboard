@@ -76,6 +76,9 @@ Focuses on identifying sensory drivers of cup quality.
 * Aroma & Flavor are strongest predictors of quality
 * Uniformity, Clean Cup, and Sweetness are consistently maxed
 
+
+### Screenshot/Demos:
+* Example:  ![Dashboard Preview](https://github.com/Amol9805/BeanScore-Quality-Index-and-Sensory-analysis-Dashboard/blob/main/Sensory%20Analysis.png)
 ---
 
 ## 🟠 2. Processing Method Analysis
@@ -91,6 +94,9 @@ Compares methods and their impact on quality.
 * Anaerobic methods yield high scores but risk defects
 * Washed/Wet is stable but not always top-scoring
 
+
+### Screenshot/Demos:
+* Example:  ![Dashboard Preview](https://github.com/Amol9805/BeanScore-Quality-Index-and-Sensory-analysis-Dashboard/blob/main/Processing%20Method.png)
 ---
 
 ## 🟢 3. Regional Differences
@@ -106,6 +112,8 @@ Highlights geography and altitude influence.
 * Ethiopia, Tanzania, and Guatemala consistently lead
 * Altitude positively correlates with cup score
 
+### Screenshot/Demos:
+* Example:  ![Dashboard Preview](https://github.com/Amol9805/BeanScore-Quality-Index-and-Sensory-analysis-Dashboard/blob/main/Regional%20Analysis.png)
 ---
 
 ## 🟡 4. Defects vs Quality
@@ -121,17 +129,35 @@ Analyzes how defects reduce scores.
 * Category One defects are the most damaging
 * Semi-Lavado and Pulped Natural methods are most vulnerable
 
+
+### Screenshot/Demos:
+* Example:  ![Dashboard Preview](https://github.com/Amol9805/BeanScore-Quality-Index-and-Sensory-analysis-Dashboard/blob/main/Variety%20and%20Defect%20Analysis.png)
 ---
 
-## 🔷 Key Business Insights
-* **Quality Drivers:** Aroma, Flavor, and Acidity are the strongest sensory predictors.
-* **Processing Trade-offs:** Innovative methods (Anaerobic, Honey) can yield high scores but increase defect risk.
-* **Regional Strengths:** Ethiopia, Tanzania, and Guatemala are consistently strong; Mexico’s Zongolica region is a hidden gem.
-* **Defect Impact:** Category One defects are the most damaging; reducing them yields immediate score improvements.
-* **Altitude Effect:** Higher altitudes consistently correlate with better cup scores.
+## 🎯 Overall Project Insights
+1. **Quality Drivers:** Aroma, Flavor, and Acidity are the strongest sensory predictors.
+2. **Processing Trade‑offs:** Innovative methods (Anaerobic, Honey) can yield high scores but increase defect risk.
+3. **Regional Strengths:** Ethiopia, Tanzania, and Guatemala are consistently strong; Mexico’s Zongolica region is a hidden gem.
+4. **Defect Impact:** Category One defects are the most damaging; reducing them yields immediate score improvements.
+5. **Temporal Trends:** Quality fluctuates by harvest year — external factors like climate and processing practices matter.
+6. **Variety Profiles:** Gesha and Bourbon lead; hybrids need defect management.
+7. **Altitude Effect:** Higher altitudes consistently correlate with better cup scores.
 
 ---
 
+## 🚀 Recommendations
+* **Growers:** Focus on reducing Category One defects; experiment with fermentation to enhance aroma/flavor.
+* **Roasters/Buyers:** Prioritize high‑altitude regions and heirloom varieties; monitor harvest year trends.
+* **CQI/Industry:** Expand training on defect reduction and processing innovation; invest in altitude‑specific best practices.
+
+---
+
+## 🔷 Interactivity Features
+* **Slicers:** Country, Region, Processing Method, Variety, Harvest Year
+* **ToolTips:** Interactive Overall information
+* **Drill‑Down:** Country → Region hierarchy
+
+---
 ## 🔷 Tools & Technologies
 * **Power BI** → Dashboard & Visualization
 * **DAX** → Measures & Calculations
