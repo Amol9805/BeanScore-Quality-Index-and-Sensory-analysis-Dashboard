@@ -1,0 +1,1 @@
+# BeanScore-Quality-Index-and-Sensory-analysis-Dashboard
