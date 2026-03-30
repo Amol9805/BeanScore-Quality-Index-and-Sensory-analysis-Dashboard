@@ -7,7 +7,7 @@ An **interactive Power BI dashboard** was developed using a structured **star sc
 
 ---
 
-## 🔷 Dataset Information
+## 🔷 Dataset Information 
 * **Source:** Coffee Quality Institute (CQI)
 * **Total Records:** ~1,300 samples
 * **Columns:** 30+
