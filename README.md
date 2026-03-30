@@ -98,7 +98,7 @@ Compares methods and their impact on quality.
 
 
 ### Screenshot/Demos:
-* Example:  ![Dashboard Preview](https://github.com/Amol9805/BeanScore-Quality-Index-and-Sensory-analysis-Dashboard/blob/main/Processing%20Method.png)
+* Example:  ![Dashboard Preview](https://github.com/Amol9805/BeanScore-Quality-Index-and-Sensory-analysis-Dashboard/blob/main/ProcessingMethod.png)
 ---
 
 ## 🟢 3. Regional Differences
