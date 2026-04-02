@@ -1,4 +1,4 @@
-# BeanScore: Coffee Quality & Sensory Analysis Dashboard
+# BeanScore: Coffee Quality & Sensory Analysis Dashboard 
 
 ## 🔷 Project Overview
 This project focuses on analyzing **Arabica coffee quality data** from the Coffee Quality Institute (CQI) to uncover insights related to **sensory attributes, processing methods, regional differences, defects, and altitude influence**.
